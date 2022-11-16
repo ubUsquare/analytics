@@ -1,0 +1,1 @@
+[{"inputs":[{"internalType":"address","name":"_to","type":"address"},{"internalType":"string","name":"uri","type":"string"}],"name":"mint","outputs":[],"stateMutability":"nonpayable","type":"function"}]
